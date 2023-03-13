@@ -1,0 +1,12 @@
+#header {
+    background: url("imgs/header.jpeg");
+    padding: 5%;
+}
+
+#gallery {
+    padding: 2%;
+}
+
+.card {
+    margin: 10px;
+}
